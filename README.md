@@ -10,6 +10,20 @@ It empowers partners, customer success teams, support engineers, and operational
 
 ---
 
+## Disclaimer
+
+CX DataMiner is an independent automation solution and is not an officially supported Cisco product.
+
+Users are responsible for:
+
+* API credential management
+* Compliance with Cisco API policies
+* Responsible rate limit usage
+* Internal governance
+* Operational validation
+
+---
+
 ## Key Benefits
 
 * Automates CX Cloud data collection across customer environments
@@ -170,20 +184,6 @@ CX DataMiner produces:
 * Technical Account Teams
 * Automation Engineers
 * Partner Support Teams
-
----
-
-## Disclaimer
-
-CX DataMiner is an independent automation solution and is not an officially supported Cisco product.
-
-Users are responsible for:
-
-* API credential management
-* Compliance with Cisco API policies
-* Responsible rate limit usage
-* Internal governance
-* Operational validation
 
 ---
 
