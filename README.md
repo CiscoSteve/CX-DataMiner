@@ -134,7 +134,7 @@ pip install requests pyyaml pandas openpyxl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CiscoSteve/CX-DataMiner.git
+git clone https://github.com/PythonAPICoder/CX-DataMiner.git
 ```
 
 2. Configure API credentials in `config.ini`
